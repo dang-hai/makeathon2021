@@ -1,2 +1,4 @@
-*
+transformed/*
+MNIST
+cubicasa5k/*
 !.gitignore
